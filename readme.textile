@@ -1,6 +1,22 @@
-h1. Car Parse
+h1. Car Chart
 
-Parsing of Craigs List auto listing into consumable data
+Search for cars to buy graphically by charting.
+
+When looking for second hand cars, I personally prefer to look for cars
+that have low mileage and are relatively new and cheap. Currently, I search for cars
+by hand and just sort by mileage, and manually weed out cars that are too old or expensive
+for my tastes. This takes a lot of time.
+
+Consider instead graphing these results. You can show mileage on one axis, price on another,
+and finally color points based on their year.
+Or you could graph mileage and year and size the points by price.
+
+This is much more efficient than just looking at a list of cars. You can sort through a 
+large amount of cars very quickly, and you can customize the charting to make sure
+you're applying the critera that matter the most to you.
+
+This project is a clone of the first HN reference below, except I'm starting with
+CraigsList parsing, because the project below doesn't include CraigsList listings.
 
 h2. References
 
